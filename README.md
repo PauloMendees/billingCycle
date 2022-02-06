@@ -10,10 +10,7 @@ git clone https://github.com/PauloMendees/billingCycle
 ### 📋 Pré-requisitos
 
 Para rodar o projeto você precisará instalar o Visual Studio, Visual Studio Code, MySQL, MySQL Workbench, Node versão LTS e algum terminal de sua preferência.
-
-```
 O backend deverá ser aberto pelo Visual Studio e o frontend pelo Visual Studio Code
-```
 
 ### 🔧 Instalação
 
