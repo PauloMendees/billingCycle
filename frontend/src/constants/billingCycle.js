@@ -1,0 +1,6 @@
+export const LISTAR_CICLOS = 'LISTAR_CICLOS'
+export const BUSCAR_CICLOBYID = 'BUSCAR_CICLOBYID'
+export const ADICIONAR_CICLO = 'ADICIONAR_CICLO'
+export const DELETAR_CICLO = 'DELETAR_CICLO'
+export const EDITAR_CICLO = 'EDITAR_CICLO'
+export const CLEAR = 'CLEAR'
