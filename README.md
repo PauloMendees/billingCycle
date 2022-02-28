@@ -22,12 +22,13 @@ Após isto, basta iniciar a aplicação.
 
 ## 🛠️ Construído com
 
-* [NextJS](https://nextjs.org/) - Framework web utilizado no front
+* [React](https://reactjs.org/) - Biblioteca web usada
 * [Node](https://nodejs.org/en/) - Gerente de Dependência
+* [Redux](https://redux.js.org/) - Gerenciamento de Estado
 * [Entity](https://entityframework.net/) - Gerenciamento de entidades
+* [Identity](https://docs.microsoft.com/pt-br/aspnet/core/security/authentication/identity?view=aspnetcore-6.0&tabs=visual-studio) - Gerenciamento de usuários
 * [MySQL](https://www.mysql.com/) - Banco de Dados
 * [AutoMapper](https://automapper.org/) - Mapeamento de entidades
-* [Axios](https://axios-http.com/docs/intro) - Camada service
 
 ## ✒️ Autor
 
